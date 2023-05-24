@@ -13,7 +13,7 @@
 ## Como testar?
 Para testar seu código, basta apenas rodar o seguinte comando:
 ```bash
-yarn test
+yarn test ou npm run test
 ```
 
 O resultado deve ser semelhante ao seguinte:
